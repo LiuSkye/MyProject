@@ -1,0 +1,25 @@
+
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++-7 build active file",
+            "command": "bash",
+            "args":[
+                "~/MyTest/aa/muduoC++11/muduo/build2.sh"
+            ],
+            // "options": {
+            //     "cwd": "/usr/bin"
+            // },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Generated task by Debugger"
+        }
+    ],
+    "version": "2.0.0"
+}
