@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skye/MyTest/aa/muduoC++11/muduo/muduo/base/Atomic.h
+muduo/base/noncopyable.h
+/home/skye/MyTest/aa/muduoC++11/muduo/muduo/base/muduo/base/noncopyable.h
+stdint.h
+-
+
+/home/skye/MyTest/aa/muduoC++11/muduo/muduo/base/noncopyable.h
+
+/home/skye/MyTest/aa/muduoC++11/muduo/muduo/base/tests/Atomic_unittest.cc
+muduo/base/Atomic.h
+/home/skye/MyTest/aa/muduoC++11/muduo/muduo/base/tests/muduo/base/Atomic.h
+assert.h
+-
+
